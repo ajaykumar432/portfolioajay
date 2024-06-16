@@ -1,0 +1,26 @@
+.signin .inp{
+    border: 2px solid red;
+    height: 300px;
+    width: 300px;
+    box-shadow: 0px 0px 10px black;
+    margin: 10vw;
+    margin-left: 35vw;
+}
+.inp{
+    height: 23vh;
+    width: 15vw;
+    margin: 20px;
+
+}
+.input1{
+    height: 10vh;
+    font-size: 27px;
+    text-align: center;
+}
+.btn1,a{
+    text-decoration: none;
+    height: 5vh;
+    width: 100px;
+    font-size: 26px;
+    border-radius: 10px;
+}

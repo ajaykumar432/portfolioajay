@@ -1,0 +1,35 @@
+
+.btn1 a{
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    text-decoration: none;
+   
+}
+.btn{
+  margin: 20px;
+   
+}
+
+.signup{
+    box-shadow: 0px 0px 5px red;
+    height: 500px;
+    width: 400px;
+    margin: 10vw;
+    margin-left: 35vw;
+    background-color: bisque;
+}
+.inputm{
+    /* border: 2px solid red; */
+    padding-top: 5vh;
+    height: 400px;
+    width: 300px;
+    margin-left: 50px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.inpsize input{
+    width: 250px;
+    height: 25px;
+}
